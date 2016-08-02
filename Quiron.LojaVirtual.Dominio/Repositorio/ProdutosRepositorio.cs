@@ -15,7 +15,5 @@ namespace Quiron.LojaVirtual.Dominio.Repositorio
         {
             get { return _context.Produtos;  }
         }
-
-        //public void Incluir();
     }
 }
